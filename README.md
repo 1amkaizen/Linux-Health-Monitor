@@ -12,11 +12,11 @@ cd Linux-Health-Monitor
 ```
 
 ```bash
-chmod +x linux-health-monitor
+chmod +x linux-health-monitor.sh
 ```
 
 ```bash
-./linux-health-monitor
+./linux-health-monitor.sh
 ```
 
 ### output:
